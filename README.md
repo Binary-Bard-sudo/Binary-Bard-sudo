@@ -1,14 +1,18 @@
-# Hi there, I'm Binary-Bard-sudo 👋
+# 💫 About Me:
+i am currently learning<br>i am in 3rd year in EnTC dept.<br>
 
-I am an engineering student currently studying in the EnTC Engineering UG Course. This repository provides all the basic codes for the PIC18F family of microcontrollers in assembly language. These codes will help you understand the fundamentals of microcontroller programming and how to run these codes.
 
-Here, you will find embedded C programs for the PIC18F4520 microcontroller.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Binary-Bard-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Binary-Bard-sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Bard-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Repository Contents
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Binary-Bard-sudo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Assembly Codes**: Basic codes for the PIC18F family of microcontrollers.
-- **Embedded C Programs**: Programs for the PIC18F4520 microcontroller.
+---
+[![](https://visitcount.itsvg.in/api?id=Binary-Bard-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to explore and use these codes to enhance your understanding of microcontroller programming.
-
-Happy coding!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
